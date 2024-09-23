@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>🗞 Titlecase</string>
+	<key>operationDescriptors</key>
+	<array>
+		<dict>
+			<key>caseType</key>
+			<integer>2</integer>
+			<key>className</key>
+			<string>PTHPastebotFilterOperationDescriptorCase</string>
+		</dict>
+	</array>
+</dict>
+</plist>
